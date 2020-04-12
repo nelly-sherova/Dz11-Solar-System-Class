@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\SolarSystem\obj\Debug\netcoreapp3.1\SolarSystem.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\SolarSystem\obj\Debug\netcoreapp3.1\SolarSystem.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\SolarSystem\obj\Debug\netcoreapp3.1\SolarSystem.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\SolarSystem\obj\Debug\netcoreapp3.1\SolarSystem.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\SolarSystem\bin\Debug\netcoreapp3.1\SolarSystem.exe
+C:\Users\ASUS\Desktop\SolarSystem\bin\Debug\netcoreapp3.1\SolarSystem.deps.json
+C:\Users\ASUS\Desktop\SolarSystem\bin\Debug\netcoreapp3.1\SolarSystem.runtimeconfig.json
+C:\Users\ASUS\Desktop\SolarSystem\bin\Debug\netcoreapp3.1\SolarSystem.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\SolarSystem\bin\Debug\netcoreapp3.1\SolarSystem.dll
+C:\Users\ASUS\Desktop\SolarSystem\bin\Debug\netcoreapp3.1\SolarSystem.pdb
+C:\Users\ASUS\Desktop\SolarSystem\obj\Debug\netcoreapp3.1\SolarSystem.dll
+C:\Users\ASUS\Desktop\SolarSystem\obj\Debug\netcoreapp3.1\SolarSystem.pdb
+C:\Users\ASUS\Desktop\SolarSystem\obj\Debug\netcoreapp3.1\SolarSystem.genruntimeconfig.cache

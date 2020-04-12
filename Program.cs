@@ -41,6 +41,11 @@ namespace SolarSystem
             Console.WriteLine($"Расстояние планеты от Солнца: {distanceOfThePlanetFromTheSun}");
             Console.WriteLine($"Количество часов в день: {numberOfHoursPerDay}");
             Console.WriteLine($"Количество дней в году {numberOfDaysPerYear}");
+            if (planetName != "Земля")
+            {
+                Console.WriteLine($"Сравнение часов в день(Земля и {planetName}): {ComparisonOfTheNumberOfHoursPerDayEarthAndAnotherPlanet(numberOfHoursPerDay)}");
+                Console.WriteLine($"Сравнение дней в году(Земля и {planetName}: {ComparisonOfTheNumberOfDaysInAYearEarthAndAnotherPlanet(numberOfDaysPerYear)}");
+            }
         }
 
     }
